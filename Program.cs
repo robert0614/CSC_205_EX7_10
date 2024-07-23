@@ -24,7 +24,7 @@ namespace CSC_205_EX7_10
             Console.WriteLine(IsAbecedarian("biopsy")); // True
             Console.WriteLine(IsAbecedarian("deux"));   // True
             Console.WriteLine(IsAbecedarian("dimpsy")); // True
-            Console.WriteLine(IsAbecedarian("hello"));  // False
+            Console.WriteLine(IsAbecedarian("hey"));  // False
 
             Console.ReadKey();
         }
